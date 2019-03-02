@@ -1,6 +1,6 @@
 using_times = 7
 7.times do
-  puts "Wingardium Leviosa"
+  puts I have known #{"Wingardium Leviosa"}
 end
 
 
